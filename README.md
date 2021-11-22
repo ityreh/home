@@ -55,4 +55,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## License
 
+[GPL-3.0-or-later](./LICENSE)
+
 ## Project status
