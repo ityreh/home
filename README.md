@@ -53,6 +53,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Authors and acknowledgment
 
+    - [Ityreh](https://github.com/ityreh)
+
 ## License
 
 [GPL-3.0-or-later](./LICENSE)
