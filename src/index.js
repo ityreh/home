@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import Footer from './components/footer/Footer';
-import Navbar from './components/navbar/Navbar';
+import Footer from './components/footer';
+import Navbar from './components/navbar';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
