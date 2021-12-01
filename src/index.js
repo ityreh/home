@@ -2,14 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Features from './components/features';
 import Footer from './components/footer';
-import Headline from './components/headline';
+import Jumbotron from './components/jumbotron';
 import Navbar from './components/navbar';
-import './index.css';
+import './styles.scss';
 
 ReactDOM.render(
   <React.StrictMode>
     <Navbar />
-    <Headline />
+    <Jumbotron />
     <Features />
     <Footer />
   </React.StrictMode>,
